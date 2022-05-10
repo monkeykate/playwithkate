@@ -1,0 +1,10 @@
+.CardStyle {
+    border: "1px solid #03506f";
+    padding: "20px";
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: "170px";
+    background-color: "#75cfb8";
+  };
