@@ -1,6 +1,6 @@
 import React from "react";
 import ReactCardFlip from "react-card-flip";
-
+import creeper from './creeper.jpg';
 const CardStyle = {
   border: "1px solid #03506f",
   borderRadius: "30px",
@@ -24,7 +24,11 @@ function Card(props) {
       >
         <div>
           <span className="emoji" role="img" aria-label="emojis">
-            {props.emoji}
+            <img src={creeper} width="115
+        
+            " height="150
+
+            "></img>
           </span>
         </div>
       </div>
