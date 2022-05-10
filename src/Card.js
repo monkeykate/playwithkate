@@ -24,11 +24,7 @@ function Card(props) {
       >
         <div>
           <span className="emoji" role="img" aria-label="emojis">
-            <img src={creeper} width="115
-        
-            " height="150
-
-            "></img>
+            <img src={creeper} width="115" height="150" alt='abc'></img>
           </span>
         </div>
       </div>
